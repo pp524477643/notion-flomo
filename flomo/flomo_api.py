@@ -33,7 +33,7 @@ class FlomoApi:
 
         # 构造参数
         params = {
-            'limit': '200',
+            'limit': '400',
             'latest_updated_at': '0',
             'tz': '8:0',
             'timestamp': current_timestamp,
